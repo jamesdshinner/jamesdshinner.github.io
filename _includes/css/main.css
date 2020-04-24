@@ -257,14 +257,6 @@ section.success {
     transition: all .3s ease-in-out;
 }
 
-.btn-outline-2 {
-    margin-top: 15px;
-    border: solid 2px #{{ site.color.secondary-dark }};
-    font-size: 20px;
-    color: #{{ site.color.secondary-dark }};
-    background: 0 0;
-    transition: all .3s ease-in-out;
-}
 
 .btn-outline:hover,
 .btn-outline:focus,
@@ -273,15 +265,6 @@ section.success {
     border: solid 2px #fff;
     color: #{{ site.color.primary }};
     background: #fff;
-}
-
-.btn-outline-2:hover,
-.btn-outline-2:focus,
-.btn-outline-2:active,
-.btn-outline-2.active {
-    border: solid 2px #{{ site.color.secondary-dark }};
-    color: #{{ site.color.primary }};
-    background: #{{ site.color.secondary-dark }};
 }
 
 .floating-label-form-group {
@@ -367,17 +350,6 @@ footer .footer-below {
     width: 50px;
     height: 50px;
     border: 2px solid #fff;
-    border-radius: 100%;
-    text-align: center;
-    font-size: 20px;
-    line-height: 45px;
-}
-
-.btn-social-2 {
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    border: 2px solid #{{ site.color.secondary-dark }};
     border-radius: 100%;
     text-align: center;
     font-size: 20px;
