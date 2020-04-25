@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 written-title: Master's Dissertation
 date: 2018-04-20
-img: cake.png
+img: DurhamCathedral.jpg
 alt: image-alt
 project-date: September 2017-April 2018
 category: Research, Machine Learning, Physics
