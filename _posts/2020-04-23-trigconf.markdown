@@ -2,6 +2,7 @@
 layout: default
 modal-id: 2
 date: 2020-04-23
+written-title: ATLAS Trigger Database Redesign
 img: AtlasEventDisplay.jpg
 alt: A physics event display from the ATLAS detector
 project-date: February 2019-present
