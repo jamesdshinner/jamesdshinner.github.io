@@ -30,6 +30,8 @@ social:
     url: https://gitlab.cern.ch/jshinner
   - title: github
     url: http://github.com/jamesdshinner
+  - title: envelope
+    url:mailto:jamesdshinner@gmail.com
 
 
 # Build settings
