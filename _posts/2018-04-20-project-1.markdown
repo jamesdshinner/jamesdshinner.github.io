@@ -1,6 +1,7 @@
 ---
 layout: default
-modal-id: X
+modal-id: 
+written-title: Master's Dissertation
 date: 2018-04-20
 img: cake.png
 alt: image-alt
