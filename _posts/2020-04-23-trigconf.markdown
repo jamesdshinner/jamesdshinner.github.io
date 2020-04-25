@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 2
+date: 2020-04-23
+img: AtlasEventDisplay.png
+alt: An ATLAS physics event display
+project-date: February 2019-present
+category: Database, SQL, JSON, Python, Physics
+description: As well as working on physics analysis, I worked to redesign the database that configures all of the trigger systems for the ATLAS detector. By replacing the existing relational database with a simpler structure that makes use of the JSON data format, the time needed to load and edit the database was reduced from up to an hour to < 0.5s. I also wrote a suite of Python scripts to perform all the database interactions.
+---
