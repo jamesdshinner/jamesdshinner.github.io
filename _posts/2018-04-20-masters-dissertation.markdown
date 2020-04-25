@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 3
 written-title: Master's Dissertation
 date: 2018-04-20
 img: DurhamCathedral.jpg
