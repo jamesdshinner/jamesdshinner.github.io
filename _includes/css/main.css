@@ -248,6 +248,10 @@ section.success {
     }
 }
 
+.btn-lg {
+    background: #{{ site.color.secondary }};   
+}
+
 .btn-outline {
     margin-top: 15px;
     border: solid 2px #fff;
