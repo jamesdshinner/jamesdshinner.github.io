@@ -1,10 +1,10 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 1
 written-title: PhD Research
 date: 2020-04-25
-img: circus.png
-alt: image-alt
+img: AtlasDetector.jpg
+alt: View of the ATLAS Detector
 project-date: September 2018-Present
 category: Research, Physics
 description: For my doctoral thesis, I am researching the properties of the top quark, the heaviest of the fundamental particles. I am investigating a novel method to use the top quark to measure the asymmetry of the laws of physics between matter and antimatter. This involves working with a terabyte-scale dataset, and applying both regression and classification algorithms to analyse this data.
