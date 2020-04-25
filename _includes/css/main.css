@@ -249,12 +249,12 @@ section.success {
 }
 
 .btn-lg {
-    background: #{{ site.color.secondary }};   
+    background: #{{ site.color.secondary }};
+    border: solid 2px #{{ site.color.secondary }};
 }
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
     font-size: 20px;
     color: #fff;
     transition: all .3s ease-in-out;
