@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 4
+modal-id: 1
 written-title: PhD Research
-date: 2015-04-25
+date: 2020-04-25
 img: AtlasDetector.jpg
 alt: View of the ATLAS Detector
 project-date: September 2018-Present
