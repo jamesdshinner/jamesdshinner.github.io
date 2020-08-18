@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 4
-written-title: Master's Dissertation
+written-title: Catapults to Cannons
 date: 2016-09-01
 img: Cannons.jpg
 alt: Cannons
-project-date: 2016
+project-date: September 2016-December 2016
 category: Web Design, HTML, CSS, JavaScript, Science Communication
 link: https://jamesdshinner.github.io/catapults-to-cannons/index.html
 link-description: See Website
