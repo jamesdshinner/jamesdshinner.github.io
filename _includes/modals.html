@@ -20,7 +20,12 @@
                             {% endif %}
                             {% if post.link %}
                             <a href={{ post.link }} class="btn btn-lg btn-outline">
-                              <i class="fa fa-download"></i> {{ post.link-description}}
+                              <i class="fa fa-download"></i> {{ post.link-description }}
+                            </a>
+                            {% endif %}
+                            {% if post.link-web %}
+                            <a href={{ post.link-web }} class="btn btn-lg btn-outline">
+                              {{ post.link-web-description }}
                             </a>
                             {% endif %}
                             <ul class="list-inline item-details">
