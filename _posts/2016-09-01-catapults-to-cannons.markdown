@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 4
 written-title: Master's Dissertation
-date: 2016-12-31
+date: 2016-09-01
 img: Cannons.jpg
 alt: Cannons
 project-date: 2016
