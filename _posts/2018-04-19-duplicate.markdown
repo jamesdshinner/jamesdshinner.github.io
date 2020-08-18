@@ -2,10 +2,10 @@
 layout: default
 modal-id: 4
 written-title: Catapults to Cannons
-date: 2018-04-19
+date: 2016-09-01
 img: DurhamCathedral.jpg
 alt: DurhamCathedral
-project-date: September 2017-April 2018
+project-date: September 2016-December 2016
 category: Research, Machine Learning, Python, Physics
 link-web: https://jamesdshinner.github.io/catapults-to-cannons/
 link-description: View Website
