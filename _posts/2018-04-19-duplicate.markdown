@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-written-title: Master's Dissertation
+written-title: Catapults to Cannons
 date: 2018-04-19
 img: DurhamCathedral.jpg
 alt: DurhamCathedral
